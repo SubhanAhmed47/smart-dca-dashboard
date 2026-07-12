@@ -14,7 +14,7 @@ Instead of evaluating wells in total isolation or blindly replacing domain physi
 
 | Well-Level KPIs & Dynamic Forecast Benchmarking | Field-Wide Holdout Error Analysis (RMSE) |
 |---|---|
-| ![Dashboard UI](assets/dashboard_ui.png) | ![Field-Wide Accuracy](assets/accuracy_chart.png) |
+| ![Dashboard UI](dashboard_ui.png) | ![Field-Wide Accuracy](accuracy_chart.png) |
 
 ---
 
